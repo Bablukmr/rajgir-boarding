@@ -49,7 +49,7 @@ const VehicleBoard = () => {
             <div className="flex justify-between items-center border-b-2 border-green-600 pb-4">
                 <div>
                     <span className="text-lg font-bold">{currentTime.toLocaleDateString()}</span>
-                    <h2 className="text-5xl font-extrabold">Razgir Nature Safari</h2>
+                    <h2 className="text-5xl font-extrabold">Rajgir Nature Safari</h2>
                 </div>
                 <div>
                     <span className="text-3xl font-extrabold">{currentTime.toLocaleTimeString()}</span>
